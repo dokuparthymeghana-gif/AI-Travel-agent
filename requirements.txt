@@ -1,0 +1,15 @@
+streamlit>=1.35.0
+python-dotenv>=1.0.0
+langchain
+langchain-openai
+langchain-community
+langchain-core
+langchain-groq
+langchain-huggingface
+langchain-text-splitters
+langgraph
+faiss-cpu
+pypdf
+requests
+sentence-transformers
+pytest>=8.0.0
